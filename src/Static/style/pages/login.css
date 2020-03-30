@@ -1,0 +1,33 @@
+
+.login-div {
+    margin: 150px auto;
+    width: 400px;    
+}
+
+.email-div {    
+    display: flex;
+    flex-direction: row;    
+    width: 100%;
+}
+
+.email-ver {
+    width: 200px
+}
+
+.email-btn {   
+    margin-left: 36px;    
+}
+
+.show {
+   width: 400px;
+   display: block;
+}
+
+.hide {
+    display: none;
+    width: 400px;
+}
+
+.login-form-button{
+    width: 100%;
+}
